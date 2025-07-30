@@ -1,9 +1,9 @@
 {
   "name": "fantasy-draft-lottery",
   "version": "1.0.0",
-  "scripts": {
+ "scripts": {
   "dev": "vite",
-  "build": "node node_modules/vite/bin/vite.js build",
+  "build": "npx vite build",
   "preview": "vite preview"
 },
   "dependencies": {
